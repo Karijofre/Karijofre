@@ -6,7 +6,7 @@
 - 🔭 I currently occupy my days in a new collaborative cryptocurrency project and work cooking delicious things
 - 🌱 I’m learning new programming languages
 - 👯 I’m a frontend junior graduated from [ADA ITW](https://adaitw.org/) I studied web development with the [Technological Node of Catamarca](https://nodotecnologico.catamarcacapital.edu.ar/) and currently I am studying at [ISPC](https://www.ispc.edu.ar/) for fullstack
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/karina-vanesa-jofre])
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/karina-vanesa-jofre?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYAaU9aNHTjaExQ5v3bcf8g%3D%3D])
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
